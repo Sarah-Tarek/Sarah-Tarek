@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sarah Tarek</h1>
 <h3 align="center">Embedded Software Engineer and C++ Developer with Proficiency in Automotive, Desktop Applications, Testing, and Embedded Linux</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-abdelraouf&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-abdelraouf" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-abdelraouf" alt="mahmoud-abdelraouf" /></a> 
 </p>
 
@@ -12,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahmoud-Abdelraouf](https://github.com/Mahmoud-Abdelraouf)
 
-- 📫 How to reach me **mahmoud126125@gmail.com**
+- 📫 How to reach me **sarahtarekbishry@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dxGMJu8WyYfyg_L6ctjqCqW-r4qbX71v/view?usp=drivesdk](https://drive.google.com/file/d/1dxGMJu8WyYfyg_L6ctjqCqW-r4qbX71v/view?usp=drivesdk)
 
