@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sarahtarekbishry@gmail.com**
 
-<h3 align="left">Connect with me: www.linkedin.com/in/sarah-tarek-28921a310</h3>
+<h3 align="left">Connect with me: </h3> **www.linkedin.com/in/sarah-tarek-28921a310**
 <p align="left">
 </p>
 
