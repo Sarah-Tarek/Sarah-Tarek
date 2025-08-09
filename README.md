@@ -1,13 +1,13 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://www.facebook.com/mahmoud126125/)
 
 <h1 align="center">Hi 👋, I'm Sarah Tarek</h1>
-<h3 align="center">Embedded Software Engineer and C++ Developer with Proficiency in Automotive, Desktop Applications, Testing, and Embedded Linux</h3>
+<h3 align="center">Embedded Software Engineer and C++ Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-tarek&label=Profile%20views&color=0e75b6&style=flat" alt="sarah-tarek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarah-tarek" alt="sarah-tarek" /></a> </p>
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Embedded Systems**
 
 - 📫 How to reach me **sarahtarekbishry@gmail.com**
 
