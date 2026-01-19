@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-tarek&label=Profile%20views&color=0e75b6&style=flat" alt="sarah-tarek" /> </p>
 
-- 📫 How to reach me **sarahtarekbishry@gmail.com**
+- 📫 How to reach me: **sarahtarekbishry@gmail.com**
 
-- 📫 Connect with me **www.linkedin.com/in/sarah-tarek-28921a310**
+- 📫 Connect with me: **www.linkedin.com/in/sarah-tarek-28921a310**
 
 <p align="left">
 </p>
